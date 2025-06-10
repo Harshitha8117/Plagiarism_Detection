@@ -1,4 +1,4 @@
-Plagiarism Detection System using NLP
+PLAGIARISM DETECTION USING NLP
 
 ⭐Overview
 
