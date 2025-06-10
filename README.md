@@ -1,5 +1,8 @@
 PLAGIARISM DETECTION USING NLP
 
+![image](https://github.com/user-attachments/assets/c2fff1d9-ecb8-4e2e-9f48-3f841f178d15)
+
+
 ⭐Overview
 
 This project introduces an AI-powered plagiarism detection system that utilizes Natural Language Processing (NLP) techniques to identify content similarities at the document level. The system processes user-submitted documents and compares them against a database of reference files to determine the extent of copied or paraphrased content.
